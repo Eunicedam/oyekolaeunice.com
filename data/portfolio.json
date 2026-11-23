@@ -1,0 +1,190 @@
+{
+  "caseStudies": [
+    {
+      "tag": "TikTok Shop",
+      "title": "Beauty brand, UK",
+      "headline": {
+        "value": "£26,084",
+        "label": "in TikTok Shop sales over 6 months"
+      },
+      "work": "TikTok Shop UK account, with sales up 82.68% on the previous six months.",
+      "metrics": [
+        {
+          "value": "2,037",
+          "label": "orders"
+        },
+        {
+          "value": "2,019",
+          "label": "customers"
+        },
+        {
+          "value": "+114.65%",
+          "label": "orders vs previous 6 months"
+        }
+      ],
+      "image": "assets/img/portfolio/tiktok-shop-uk-6-months.jpg"
+    },
+    {
+      "tag": "Meta Ads",
+      "title": "Pet treats brand, UK",
+      "headline": {
+        "value": "-90%",
+        "label": "cost per order in 4 weeks"
+      },
+      "work": "Tested videos, images and audiences, then moved the budget behind the winning ad. Week 4 ran above break-even.",
+      "metrics": [
+        {
+          "value": "£164.65 → £15.81",
+          "label": "cost per order, week 1 to week 4"
+        },
+        {
+          "value": "125",
+          "label": "orders in the month"
+        },
+        {
+          "value": "1.51",
+          "label": "ROAS in week 4"
+        }
+      ],
+      "chart": [
+        3,
+        26,
+        38,
+        56
+      ],
+      "chartLabel": "Orders per week"
+    },
+    {
+      "tag": "Meta Ads",
+      "title": "Baby & kids store",
+      "headline": {
+        "value": "4.90x",
+        "label": "return on ad spend"
+      },
+      "work": "Built the store, set up tracking and produced the ad creatives behind the campaign.",
+      "metrics": [
+        {
+          "value": "$104.16",
+          "label": "ad spend"
+        },
+        {
+          "value": "$509.89",
+          "label": "sales"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "tag": "Meta Ads",
+      "title": "Pet store",
+      "headline": {
+        "value": "$2.78",
+        "label": "per purchase"
+      },
+      "work": "Built the Shopify store, set up the Pixel and launched a purchase campaign with an A/B creative test.",
+      "metrics": [
+        {
+          "value": "16",
+          "label": "purchases"
+        },
+        {
+          "value": "$44.51",
+          "label": "ad spend"
+        },
+        {
+          "value": "Day 3",
+          "label": "first sales"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "tag": "TikTok Ads + Shop",
+      "title": "E-commerce brand",
+      "headline": {
+        "value": "1,227",
+        "label": "conversions"
+      },
+      "work": "Built the TikTok Ads account from scratch and managed the TikTok Shop alongside it.",
+      "metrics": [
+        {
+          "value": "$8.14",
+          "label": "per conversion"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "tag": "TikTok Shop",
+      "title": "Home and garden brand, UK",
+      "headline": {
+        "value": "£3,188",
+        "label": "in TikTok Shop sales in 30 days"
+      },
+      "work": "TikTok Shop UK account, with orders up 37.89% on the month before.",
+      "metrics": [
+        {
+          "value": "131",
+          "label": "orders"
+        },
+        {
+          "value": "163",
+          "label": "items sold"
+        }
+      ],
+      "image": "assets/img/portfolio/tiktok-shop-uk-30-days.jpg"
+    },
+    {
+      "tag": "TikTok Shop + Shopify",
+      "title": "Fashion brand, US",
+      "headline": {
+        "value": "$1,289",
+        "label": "in TikTok Shop sales in 7 days"
+      },
+      "work": "TikTok Shop connected to the brand's Shopify store.",
+      "metrics": [
+        {
+          "value": "15",
+          "label": "orders"
+        },
+        {
+          "value": "13.29%",
+          "label": "average click rate"
+        }
+      ],
+      "image": "assets/img/portfolio/tiktok-shop-shopify-7-days.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "£26,084 in TikTok Shop sales over 6 months",
+      "type": "TikTok Shop",
+      "image": "assets/img/portfolio/tiktok-shop-uk-6-months.jpg",
+      "link": ""
+    },
+    {
+      "title": "£3,188 in TikTok Shop sales in 30 days",
+      "type": "TikTok Shop",
+      "image": "assets/img/portfolio/tiktok-shop-uk-30-days.jpg",
+      "link": ""
+    },
+    {
+      "title": "$1,289 in 7 days, TikTok Shop on Shopify",
+      "type": "TikTok Shop",
+      "image": "assets/img/portfolio/tiktok-shop-shopify-7-days.jpg",
+      "link": ""
+    },
+    {
+      "title": "Fashion listings, all rated Good",
+      "type": "Product listings",
+      "image": "assets/img/portfolio/tiktok-shop-fashion-listings.jpg",
+      "link": ""
+    },
+    {
+      "title": "New TikTok Shop set up and approved",
+      "type": "Shop setup",
+      "image": "assets/img/portfolio/tiktok-shop-setup-approved.jpg",
+      "link": ""
+    }
+  ]
+}

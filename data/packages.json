@@ -1,0 +1,36 @@
+{
+  "note": "Ad spend is paid straight to Meta, TikTok or Google. It is never part of my fee.",
+  "packages": [
+    {
+      "name": "Launch",
+      "price": "$450",
+      "per": "one-time",
+      "for": "Brands and local businesses starting paid ads, or restarting them properly.",
+      "features": ["Ad account, Pixel and tracking set up", "One platform: Meta or TikTok", "One campaign built and launched", "3 ad creatives", "14 days of daily optimisation", "Handover report and next steps"],
+      "featured": false
+    },
+    {
+      "name": "Growth",
+      "price": "$750",
+      "per": "per month",
+      "for": "Businesses ready to run ads every month and grow sales steadily.",
+      "features": ["One platform managed: Meta or TikTok", "New creatives tested every week", "Up to 6 new creatives a month", "Budget moved to what sells", "Weekly report and a monthly call", "WhatsApp support on weekdays"],
+      "featured": true
+    },
+    {
+      "name": "Scale",
+      "price": "$1,400",
+      "per": "per month",
+      "for": "Brands selling on more than one channel who want one person running it all.",
+      "features": ["Meta and TikTok managed together", "TikTok Shop or Google Shopping included", "Up to 12 new creatives a month", "Full-funnel and retargeting campaigns", "Weekly call and report", "Priority WhatsApp support"],
+      "featured": false
+    }
+  ],
+  "addons": [
+    { "name": "TikTok Shop setup", "price": "from $300", "detail": "Shop, product listings, eligibility checks and Shopify sync" },
+    { "name": "Google Merchant Center", "price": "from $250", "detail": "Account, product feed, fixes for disapproved products, free listings" },
+    { "name": "Shopify store design or redesign", "price": "from $800", "detail": "Homepage, product and collection pages built to convert" },
+    { "name": "UGC video", "price": "from $120 per video", "detail": "Short product videos made for ads and organic posts" },
+    { "name": "Shop audit", "price": "Free", "detail": "A review of your store and ads with a list of what to fix first" }
+  ]
+}
